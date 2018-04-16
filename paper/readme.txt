@@ -1,4 +1,8 @@
-nonlinear DR methods:ISOMAP/LLE/LE
-linear DR methods:LPP/NPE
+nonlinear DR methods:
+ISOMAP/LLE/LE
 
-a general framework for DR:GE
+linear DR methods:
+LPP/NPE
+
+a general framework for DR:
+GE
